@@ -1,4 +1,4 @@
-Overview
+Overview:
 The Attendance Management System is a Python-based desktop application designed to simplify the process of managing student attendance, timetables, and subject records in educational institutions. The system features a user-friendly interface built using Tkinter and stores data in an SQLite database for easy retrieval and management.
 
 This application is suitable for schools, colleges, universities, and any organization that needs to track attendance, manage schedules, and generate reports for students and subjects.
